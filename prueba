@@ -1,0 +1,3 @@
+git remote add origin <https://github.com/marcelocarranza/Prueba1>
+git clone https://github.com/marcelocarranza/Prueba1.git
+git branch nueva-funcionalidad
